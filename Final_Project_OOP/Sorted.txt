@@ -1,0 +1,8 @@
+Name: Combine, mark: bosh, cost: 780$, count of programs: 50, power: 7 Watt 
+Name: Combine, mark: yool, cost: 3000$, count of programs: 120, power: 3 Watt 
+Name: DustTrain, mark: bosh, cost: 2000$, power: 300 Watt, color: red 
+Name: DustTrain, mark: bosh, cost: 10030$, power: 12 Watt, color: green 
+Name: WashingMachine, mark: bowsh, cost: 200$, count of programs: 40, volume: 8 cubic feet 
+Name: WashingMachine, mark: kool, cost: 2020$, count of programs: 47, volume: 9 cubic feet 
+Name: WashingMachine, mark: wer, cost: 5000$, count of programs: 12, volume: 89 cubic feet 
+Count of DustTrain: 2, count of WashingMachine: 3, count of Combine: 2 

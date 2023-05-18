@@ -1,0 +1,7 @@
+WashingMachine,bowsh,200,40,8
+DustTrain,bosh,2000,300,red
+Combine,bosh,780,50,7
+WashingMachine,kool,2020,47,9
+DustTrain,bosh,10030,12,green
+Combine,yool,3000,120,3
+WashingMachine,wer,5000,12,89
